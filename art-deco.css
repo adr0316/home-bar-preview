@@ -313,3 +313,13 @@ body.is-home{
  .home-landing .home-search-field .search-icon{font-size:27px;padding-left:12px}
  .home-landing .home-search-field button{padding:0 9px}
 }
+
+/* Final portrait-home finishing touches */
+.home-landing .tile-art{border:0!important;padding:0!important}
+.home-landing .favorites-quick-link{
+ display:block;margin:10px auto 0;min-height:43px;padding:9px 24px;
+ background:rgba(39,31,20,.65);border:1px solid #cda15a;border-radius:24px;
+ color:#e8c182;font:normal 13px Georgia,serif;letter-spacing:1.6px;
+}
+.home-landing .favorites-quick-link:focus{outline:2px solid #fff0c4;outline-offset:3px}
+.home-landing .favorites-quick-link:active{background:#624520}
